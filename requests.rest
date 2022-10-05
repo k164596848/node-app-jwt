@@ -1,4 +1,4 @@
-GET http://localhost:3000/posts 
+GET http://54.242.160.202:3000/posts 
 Authorization: Bearer 
 ###
 
