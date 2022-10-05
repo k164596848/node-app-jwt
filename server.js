@@ -59,5 +59,7 @@ function authenticateToken(req,res,next){
     })
     
 }
+console.log('port on 3000')
+
 
 app.listen(3000)
